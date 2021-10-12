@@ -1,0 +1,55 @@
+
+body {
+  background-image: url("shagra sh1.jpg");
+  background-position: right top;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+ul.a {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol ul
+{
+list-style-type: lower-roman;
+}
+
+a:link {
+  text-decoration: none;
+ color: red;
+}
+
+a:visited {
+  text-decoration: none;
+ color: blue;
+}
+a:hover {
+  text-decoration: underline;
+ color: green;
+}
+
+a:active {
+  text-decoration: underline;
+ color: black;
+}
+p
+{
+ font-family: 'Impact';
+    color: red;
+    font-size: 25px;
+}
+.sheet1h1
+{
+border: 2px solid rgb(160,0,0);
+  padding: .857em;
+margin: 0 0 1em 0;
+}
